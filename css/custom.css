@@ -1,0 +1,9 @@
+body {
+  cursor: url(https://cdn.jsdelivr.net/gh/kaier33/image-hosting-service@main/soliloquy-cursor.cur), default !important;
+}
+#banner {
+  cursor: url(https://cdn.jsdelivr.net/gh/kaier33/image-hosting-service@main/soliloquy-cursor.cur), default !important;
+}
+/* #banner > .full-bg-img > .mask > .scroll-down-bar {
+  cursor: url(https://cdn.jsdelivr.net/gh/kaier33/image-hosting-service@main/soliloquy-cursor.cur), default !important;
+} */
