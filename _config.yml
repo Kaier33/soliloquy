@@ -4,7 +4,7 @@
 
 # Site
 title: Kaier's Blog
-subtitle: '碎碎念'
+subtitle: '随笔'
 description: ''
 keywords:
 author: Kaier33
@@ -14,7 +14,6 @@ timezone: 'Asia/Shanghai'
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://kaier33.github.io/soliloquy
-root: /soliloquy/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
