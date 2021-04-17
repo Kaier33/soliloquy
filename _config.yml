@@ -103,4 +103,5 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: 
+  repo: https://github.com/kaier33/soliloquy
+  branch: gh-pages
