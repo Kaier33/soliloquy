@@ -1,7 +1,7 @@
 ---
 title: Hello World
 excerpt: 写代码拯救不了世界
-index_img: https://cdn.jsdelivr.net/gh/kaier33/image-hosting-service@main/wallhaven.png
+index_img: https://cdn.jsdelivr.net/gh/kaier33/image-hosting-service@main/wallhaven-od2q8l.png
 banner_img: https://cdn.jsdelivr.net/gh/kaier33/image-hosting-service@main/wallhaven-oxry1p.jpeg
 date: 2021-04-18 16:00:00
 ---
@@ -20,3 +20,12 @@ date: 2021-04-18 16:00:00
 
 这套Hexo x Fluid 还是蛮好看的, 主要是图多呀, 所谓博文好不哈看, 图片占了一半. XD 
 
+## 为何说写代码拯救不了世界
+
+相信大多数搞技术的, 心里多多少少会有自己能改变的世界的"错觉", 或者是以"技术"作为第一要义.
+
+然而这个社会终究是由人所构成的, 正确处理好人与人之间的关系, 方能决定自己能爬到多高~
+
+但, 至少写代码是一件很纯粹的事情, 你输入什么就会得到什么输出.
+
+既然拯救不了世界, 我们可以拯救自己嘛, 把它当成一件快乐的事情, 哪怕以后不再把它当成职业, 变成业余的兴趣爱好, 不也是一件很有趣的事情么
